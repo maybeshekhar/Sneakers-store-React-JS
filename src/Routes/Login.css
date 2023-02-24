@@ -1,0 +1,13 @@
+@import 'bootstrap/dist/css/bootstrap.min.css';
+
+#main-container{
+    place-items: center center;
+}
+
+
+.banner {
+    width: 302px;
+    height: 302px;
+    margin-top: 45%;
+}
+
